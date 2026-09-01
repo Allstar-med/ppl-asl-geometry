@@ -1,0 +1,13 @@
+__pycache__/
+.pytest_cache/
+.venv/
+*.pyc
+results/
+data/
+reconciled_masks/
+manifest.csv
+manifest_reconciled.csv
+.DS_Store
+*.log
+geometry_audit.csv
+reconciled_geometry_audit.csv
