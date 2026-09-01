@@ -1,0 +1,3 @@
+case_id,plane,annotator,organ_a,organ_b,expert_mask,expert_segment_name,reference_image
+amos_0001,HR,Cong_Hu,data/amos_0001_liver.nii.gz,data/amos_0001_right_kidney.nii.gz,data/Hu/amos_0001.seg.nrrd,HR,data/amos_0001_ct.nii.gz
+amos_0001,SR,Cong_Hu,data/amos_0001_spleen.nii.gz,data/amos_0001_left_kidney.nii.gz,data/Hu/amos_0001.seg.nrrd,SR,data/amos_0001_ct.nii.gz
