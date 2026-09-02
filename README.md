@@ -137,9 +137,13 @@ A static audit is also included:
 python scripts/verify_no_hardcoded_results.py
 ```
 
+## Public expert annotations
+
+Three de-identified expert annotation sets are available in [`annotations/`](annotations/), grouped as A, B and C. The accompanying [`manifest.csv`](annotations/manifest.csv) records case availability, exact segment names and known QC exceptions. The annotation protocol is provided in [`docs/annotation_protocol.docx`](docs/annotation_protocol.docx).
+
 ## Data policy
 
-Study imaging and expert annotations are intentionally not bundled. AMOS data remain governed by the original dataset terms. Expert annotations and case-level source data should be deposited separately where permitted.
+The expert annotation files are included in this repository. Source CT images are not redistributed; AMOS data remain governed by the original dataset terms.
 
 ## License
 
