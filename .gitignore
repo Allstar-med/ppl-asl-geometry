@@ -6,6 +6,7 @@ results/
 data/
 reconciled_masks/
 manifest.csv
+!annotations/manifest.csv
 manifest_reconciled.csv
 .DS_Store
 *.log
